@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1495055932033.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7CBCCFC4",
+    "lastKnownWriteTime" : 4608696288,
+    "last_content_update" : 1495055932033,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "9EE10762",
+        "caption" : "top50_entities",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=top50_entities&cache_key=9EE10762",
+        "displayedObservations" : "50",
+        "environment" : "",
+        "object" : "top50_entities",
+        "preview" : "0",
+        "totalObservations" : "50",
+        "variables" : "2"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
